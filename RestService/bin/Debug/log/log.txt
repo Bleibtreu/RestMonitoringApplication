@@ -1,0 +1,16 @@
+[2019-09-09 15:01:57,790] INFO [loginfo:20] - Service started success
+[2019-09-09 15:04:54,163] INFO [loginfo:20] - MySql connection is null, restart now
+[2019-09-09 15:04:54,376] INFO [loginfo:20] - MySql connect success
+[2019-09-09 15:04:54,380] ERROR [loginfo:28] - MySql closed failure, Exception:Incorrect datetime value: '1/1/0001 12:00:00 AM' for column 'occurrence_time' at row 1
+[2019-09-09 15:04:54,382] INFO [loginfo:20] - MySql closed success
+[2019-09-09 15:06:13,155] INFO [loginfo:20] - Service started success
+[2019-09-09 15:06:13,585] INFO [loginfo:20] - MySql connection is null, restart now
+[2019-09-09 15:06:13,745] INFO [loginfo:20] - MySql connect success
+[2019-09-09 15:06:13,755] INFO [loginfo:20] - MySql closed success
+[2019-09-09 15:06:13,757] INFO [loginfo:20] - MySql closed success
+[2019-09-09 15:10:39,081] INFO [loginfo:20] - Service started success
+[2019-09-09 15:12:53,274] INFO [loginfo:20] - ZDVehicleOutbound
+[2019-09-09 15:19:40,030] INFO [loginfo:20] - ZDVehicleOutbound
+[2019-09-09 15:26:12,679] INFO [loginfo:20] - ZDVehicleOutbound
+[2019-09-09 15:28:14,359] INFO [loginfo:20] - Service started success
+[2019-09-09 15:28:33,276] INFO [loginfo:20] - ZDVehicleOutbound:111

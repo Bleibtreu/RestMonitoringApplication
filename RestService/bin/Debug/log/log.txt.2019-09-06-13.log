@@ -1,0 +1,14 @@
+[2019-09-06 13:49:02,630] INFO [loginfo:20] - Service started success
+[2019-09-06 13:50:27,732] INFO [loginfo:20] - Service started success
+[2019-09-06 13:50:30,383] INFO [loginfo:20] - ZDVehicleOutbound
+[2019-09-06 13:50:47,375] INFO [loginfo:20] - Service started success
+[2019-09-06 13:52:47,177] INFO [loginfo:20] - ZDVehicleOutbound
+[2019-09-06 13:53:28,822] INFO [loginfo:20] - ZDVehicleOutbound
+[2019-09-06 13:53:46,780] INFO [loginfo:20] - ZDVehicleOutbound
+[2019-09-06 13:56:47,156] INFO [loginfo:20] - Service started success
+[2019-09-06 13:56:47,260] INFO [loginfo:20] - Service closed success
+[2019-09-06 13:56:47,285] INFO [loginfo:20] - MySql connection is null, restart now
+[2019-09-06 13:56:47,542] INFO [loginfo:20] - MySql connect success
+[2019-09-06 13:56:47,553] INFO [loginfo:20] - MySql closed success
+[2019-09-06 13:56:47,556] INFO [loginfo:20] - MySql closed success
+[2019-09-06 13:57:37,071] INFO [loginfo:20] - Service started success

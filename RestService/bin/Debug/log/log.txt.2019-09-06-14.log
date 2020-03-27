@@ -1,0 +1,12 @@
+[2019-09-06 14:03:24,192] INFO [loginfo:20] - Service started success
+[2019-09-06 14:03:24,327] ERROR [loginfo:28] - Service stared failure, Exception:未将对象引用设置到对象的实例。
+[2019-09-06 14:03:24,354] INFO [loginfo:20] - MySql connection is null, restart now
+[2019-09-06 14:03:24,625] INFO [loginfo:20] - MySql connect success
+[2019-09-06 14:03:24,633] INFO [loginfo:20] - MySql closed success
+[2019-09-06 14:03:24,636] INFO [loginfo:20] - MySql closed success
+[2019-09-06 14:08:54,768] INFO [loginfo:20] - Service started success
+[2019-09-06 14:09:01,187] INFO [loginfo:20] - Service closed success
+[2019-09-06 14:09:01,214] INFO [loginfo:20] - MySql connection is null, restart now
+[2019-09-06 14:09:01,424] INFO [loginfo:20] - MySql connect success
+[2019-09-06 14:09:01,433] INFO [loginfo:20] - MySql closed success
+[2019-09-06 14:09:01,434] INFO [loginfo:20] - MySql closed success

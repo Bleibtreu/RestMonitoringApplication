@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<configuration>
+  <ZDUrl>http://testwms.91wuliu.com:8888</ZDUrl>
+  <LTUrl>http://192.168.6.148:8181</LTUrl>
+  <DatabaseSetting>
+    <DBServer>DESKTOP-39OIQ20</DBServer>
+    <UserId>sa</UserId>
+    <Pwd>localhost</Pwd>
+    <Database>restdb</Database>
+    <tableName>Record</tableName>
+  </DatabaseSetting>
+  <asdasda>http://testwms.91wuliu.com:8888</asdasda>
+</configuration>

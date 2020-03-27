@@ -1,0 +1,16 @@
+[2019-09-09 14:30:40,088] INFO [loginfo:20] - Service started success
+[2019-09-09 14:30:40,428] ERROR [loginfo:28] - Service stared failure, Exception:HTTP could not register URL http://+:8000/RestService/. Your process does not have access rights to this namespace (see http://go.microsoft.com/fwlink/?LinkId=70353 for details).
+[2019-09-09 14:30:40,437] INFO [loginfo:20] - MySql connection is null, restart now
+[2019-09-09 14:30:40,553] ERROR [loginfo:28] - MySql connect failure, Exception:Authentication to host 'localhost' for user 'root' using method 'mysql_native_password' failed with message: Access denied for user 'root'@'localhost' (using password: YES)
+[2019-09-09 14:41:45,634] INFO [loginfo:20] - Service started success
+[2019-09-09 14:41:45,988] ERROR [loginfo:28] - Service stared failure, Exception:HTTP could not register URL http://+:8000/RestService/. Your process does not have access rights to this namespace (see http://go.microsoft.com/fwlink/?LinkId=70353 for details).
+[2019-09-09 14:41:46,000] INFO [loginfo:20] - MySql connection is null, restart now
+[2019-09-09 14:41:46,166] INFO [loginfo:20] - MySql connect success
+[2019-09-09 14:41:46,169] ERROR [loginfo:28] - MySql closed failure, Exception:Incorrect datetime value: '1/1/0001 12:00:00 AM' for column 'occurrence_time' at row 1
+[2019-09-09 14:41:46,171] INFO [loginfo:20] - MySql closed success
+[2019-09-09 14:43:47,569] INFO [loginfo:20] - Service started success
+[2019-09-09 14:43:47,907] ERROR [loginfo:28] - Service stared failure, Exception:HTTP could not register URL http://+:8080/RestService/. Your process does not have access rights to this namespace (see http://go.microsoft.com/fwlink/?LinkId=70353 for details).
+[2019-09-09 14:43:47,917] INFO [loginfo:20] - MySql connection is null, restart now
+[2019-09-09 14:43:48,068] INFO [loginfo:20] - MySql connect success
+[2019-09-09 14:43:48,070] ERROR [loginfo:28] - MySql closed failure, Exception:Incorrect datetime value: '1/1/0001 12:00:00 AM' for column 'occurrence_time' at row 1
+[2019-09-09 14:43:48,072] INFO [loginfo:20] - MySql closed success
